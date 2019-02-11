@@ -1,3 +1,1 @@
-try {
-  console.log("Try")
-}
+console.log("hello world")

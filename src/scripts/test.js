@@ -1,4 +1,3 @@
-console.log("hello world")
 const path = require('path')
 const http = require('http')
 const express = require('express')
